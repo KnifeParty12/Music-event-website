@@ -66,7 +66,7 @@ class Header extends Component {
 
 
                 <SideDrawer
-                    open={this.state.drawerOpen} //Creating a new State by the name of "drawerOpen"
+                    open={this.state.drawerOpen}  /*Creating a new State by the name of "drawerOpen"*/
                     onClose={(value)=> this.toggleDrawer(value)}
                 />
 
