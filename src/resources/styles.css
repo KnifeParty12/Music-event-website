@@ -82,7 +82,7 @@ footer .footer_copyright {
 
 .carrousel_image {
     
-    background-size: cover !important;
+    background-size: contain !important;
 }
 
 .artist_name {
