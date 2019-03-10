@@ -56,7 +56,7 @@ const VenueNfo = () => {
                                         Event Location
                                     </div>
                                     <div className={'vn_desc'}>
-                                        NSUT College Dwarka Mor,110078
+                                        Clapham Common, Clapham, UK
 
                                     </div>
                                 </div>
