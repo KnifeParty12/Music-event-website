@@ -15,7 +15,7 @@ import Footer from './components/header-footer/Footer';
 class App extends Component {
   render() {
     return (
-      <div className="App" style={{height: "1500px",background: 'lightblue'}}>
+      <div className="App" style={{height: "1500px",background: 'white'}}>
         <Header/>
 
           <Element name={'featured'}>
