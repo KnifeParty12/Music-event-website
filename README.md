@@ -1,5 +1,5 @@
 
-#Deployed Here :arrow_forward: [Check it out!](clever-garden.surge.sh).
+##Deployed Here :arrow_forward: (clever-garden.surge.sh)  [Paste this URL in your browser]
 -----------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
